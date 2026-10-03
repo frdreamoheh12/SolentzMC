@@ -1,0 +1,345 @@
+{
+  "links": {
+    "discord": "https://discord.gg/8ktuDpCwkV",
+    "astralab": "https://www.astralab.fun",
+    "utilities": "https://utitlies.astralab.fun"
+  },
+  "packages": [
+    {
+      "name": "DIRT",
+      "price": 100,
+      "color": "#b88d6c",
+      "features": [
+        "20 plugins",
+        "2 paid plugins",
+        "Low-optimized server, still good",
+        "Lower priority (20%)",
+        "3 days support"
+      ]
+    },
+    {
+      "name": "STONE",
+      "price": 200,
+      "color": "#adb0bc",
+      "features": [
+        "30 plugins",
+        "8 paid plugins",
+        "Optimized server",
+        "Medium priority (35%)",
+        "5 days support"
+      ]
+    },
+    {
+      "name": "DEEPSLATE",
+      "price": 400,
+      "color": "#8e91a1",
+      "features": [
+        "40 plugins",
+        "12 paid plugins",
+        "Clean, optimized, stable 20 TPS",
+        "Higher priority (50%)",
+        "7 days support"
+      ]
+    },
+    {
+      "name": "EMERALD",
+      "price": 600,
+      "color": "#77c6a2",
+      "features": [
+        "50 plugins",
+        "18 paid plugins",
+        "Super-optimized, ~10ms",
+        "60% priority",
+        "Hosting suggestion",
+        "10 days support"
+      ]
+    },
+    {
+      "name": "DIAMOND",
+      "price": 1000,
+      "color": "#87cddf",
+      "features": [
+        "65 plugins",
+        "26 paid plugins",
+        "Ultra-optimized, ~8ms",
+        "75% priority",
+        "Hosting advice",
+        "Setup help",
+        "14 days support"
+      ]
+    },
+    {
+      "name": "NETHERITE",
+      "price": 1500,
+      "color": "#9c8f9f",
+      "features": [
+        "80 plugins",
+        "34 paid plugins",
+        "Fully tuned",
+        "JVM flags + profiling",
+        "~6ms",
+        "85% priority",
+        "Hosting advice",
+        "Migration help",
+        "30 days support"
+      ]
+    },
+    {
+      "name": "BEACON",
+      "price": 2000,
+      "color": "#bddbe3",
+      "features": [
+        "100 plugins",
+        "44 paid plugins",
+        "Load-tested for peak players",
+        "~5ms",
+        "90% priority",
+        "Monitoring setup",
+        "45 days support"
+      ]
+    },
+    {
+      "name": "NETHER STAR",
+      "price": 3000,
+      "color": "#ba9ded",
+      "features": [
+        "125 plugins",
+        "60 paid plugins",
+        "Network/proxy tuning",
+        "Stress test",
+        "95% priority",
+        "1 custom plugin",
+        "60 days support"
+      ]
+    },
+    {
+      "name": "DRAGON EGG",
+      "price": 4000,
+      "color": "#d298c7",
+      "features": [
+        "Unlimited plugins",
+        "All paid plugins included",
+        "Fully managed tuning",
+        "100% dedicated priority",
+        "2 custom plugins",
+        "90 days support"
+      ]
+    }
+  ],
+  "services": [
+    {
+      "name": "SMP Services",
+      "icon": "◇",
+      "items": [
+        "Survival",
+        "Lifesteal",
+        "OpLifeSteal",
+        "GemSteal",
+        "HeartSteal",
+        "HeadSteal",
+        "SoulSteal",
+        "EffectSMP",
+        "Infuse SMP",
+        "Crystal SMP",
+        "Glory SMP",
+        "Pillars Of Fortune"
+      ]
+    },
+    {
+      "name": "Minigame Services",
+      "icon": "⚔",
+      "items": [
+        "BedWars",
+        "Modern BedWars",
+        "Practice",
+        "FFA",
+        "Duels",
+        "Anarchy",
+        "BoxPvP"
+      ]
+    },
+    {
+      "name": "Backend Services",
+      "icon": "⌘",
+      "items": [
+        "Backend Setups",
+        "Hub",
+        "Proxy",
+        "Velocity",
+        "BungeeCord",
+        "Waterfall"
+      ]
+    },
+    {
+      "name": "Optimization & Server Jars",
+      "icon": "⏣",
+      "context": "Server optimization and backend configuration.",
+      "items": [
+        "Leaf",
+        "Leaves",
+        "Purpur",
+        "Paper",
+        "FlamePaper",
+        "UniverseSpigot"
+      ]
+    }
+  ],
+  "plugins": [
+    {
+      "series": "Astra",
+      "items": [
+        {
+          "name": "AstraDuelsCore",
+          "description": "Astra series plugin."
+        },
+        {
+          "name": "AstraFFACore",
+          "description": "Astra series plugin."
+        },
+        {
+          "name": "AstraArenaCore",
+          "description": "Astra series plugin."
+        },
+        {
+          "name": "AstraChatCore",
+          "description": "A combined chat solution bringing multiple chat-related features into one system."
+        },
+        {
+          "name": "AstraEmojis",
+          "description": "Sprite-style Minecraft emojis using simple \":name:\" syntax."
+        },
+        {
+          "name": "AstraKitsCore",
+          "description": "A Dialog-based kits system with permission and LuckPerms support."
+        },
+        {
+          "name": "AstraKothCore",
+          "description": "A KOTH management solution for Minecraft servers."
+        }
+      ]
+    },
+    {
+      "series": "Axel",
+      "items": [
+        {
+          "name": "AxelCombat",
+          "description": "Core combat plugin."
+        },
+        {
+          "name": "AxelStrikeAddon",
+          "description": "StrikePractice addon based on the ShyamStrikeCore concept."
+        },
+        {
+          "name": "AxelCMD",
+          "description": "Command whitelist system."
+        },
+        {
+          "name": "AxelKills",
+          "description": "Custom kill message system."
+        },
+        {
+          "name": "AxelSMPCore",
+          "description": "SMP core system using Dialog interfaces."
+        }
+      ]
+    },
+    {
+      "series": "Az",
+      "items": [
+        {
+          "name": "AzQueue",
+          "description": "Queue interface with kit icons and animated match/queue display."
+        },
+        {
+          "name": "AzWGTitles",
+          "description": "Displays titles, subtitles, actionbars, and related region enter/leave feedback."
+        },
+        {
+          "name": "AzStrikeAddon",
+          "description": "StrikePractice addon providing a levitation floor arena feature."
+        },
+        {
+          "name": "AzCT",
+          "description": "Custom title/subtitle functionality for commands."
+        }
+      ]
+    },
+    {
+      "series": "Axo",
+      "items": [
+        {
+          "name": "AxoStrikeTab",
+          "description": "TAB integration/addon for StrikePractice."
+        }
+      ]
+    }
+  ],
+  "screenshots": [
+    {
+      "title": "Work 01",
+      "src": "assets/work-01.jpg",
+      "source": "https://cdn.discordapp.com/attachments/1550066826971713557/1555233867156295731/Screenshot_2026-09-30-15-23-36-699_git.artdeell.mojo.jpg?backend=b2&ex=6abfc7e8&is=6abe7668&hm=764bb30603db5fe6ef87612768909926ba690fdeb6f70fa43ded1881bc57fb1d&",
+      "alt": "Work 01 — supplied Minecraft server screenshot"
+    },
+    {
+      "title": "Work 02",
+      "src": "assets/work-02.jpg",
+      "source": "https://cdn.discordapp.com/attachments/1550066826971713557/1555233869194731622/Screenshot_2026-09-30-15-22-17-360_git.artdeell.mojo.jpg?backend=b2&ex=6abfc7e9&is=6abe7669&hm=95efb8af9e91776ac1476c5384df69414855e1a8cd27920d5d8b5e971ff3851b&",
+      "alt": "Work 02 — supplied Minecraft server screenshot"
+    },
+    {
+      "title": "Work 03",
+      "src": "assets/work-03.jpg",
+      "source": "https://cdn.discordapp.com/attachments/1550066826971713557/1555233870918451350/Screenshot_2026-09-30-15-22-23-761_git.artdeell.mojo.jpg?backend=b2&ex=6abfc7e9&is=6abe7669&hm=c410c9c77cf04c854315d3a2776f6f55ded52d8e35eb69ac5499a62aed67c91d&",
+      "alt": "Work 03 — supplied Minecraft server screenshot"
+    },
+    {
+      "title": "Work 04",
+      "src": "assets/work-04.jpg",
+      "source": "https://cdn.discordapp.com/attachments/1550066826971713557/1555233872382402690/Screenshot_2026-09-28-08-01-01-844_git.artdeell.mojo.jpg?backend=b2&ex=6abfc7ea&is=6abe766a&hm=e09286f5644504f866e4193238cf0da1b2d731b100c8fb2fd05dde9b9b357e19&",
+      "alt": "Work 04 — supplied Minecraft server screenshot"
+    },
+    {
+      "title": "Work 05",
+      "src": "assets/work-05.jpg",
+      "source": "https://cdn.discordapp.com/attachments/1550066826971713557/1555233873821175928/Screenshot_2026-09-28-07-45-14-217_git.artdeell.mojo.jpg?backend=b2&ex=6abfc7ea&is=6abe766a&hm=57eb08e21113eebdafa3b29d391b4300ae68cd2f3afe728ed66fb493c4642311&",
+      "alt": "Work 05 — supplied Minecraft server screenshot"
+    },
+    {
+      "title": "Work 06",
+      "src": "assets/work-06.jpg",
+      "source": "https://cdn.discordapp.com/attachments/1550066826971713557/1555233875309895801/Screenshot_2026-09-28-07-45-08-799_git.artdeell.mojo.jpg?backend=b2&ex=6abfc7ea&is=6abe766a&hm=13f698e82198dfbbe241cf47bdded63134aad169e0ebd0e0b8295f37bc7db950&",
+      "alt": "Work 06 — supplied Minecraft server screenshot"
+    },
+    {
+      "title": "Work 07",
+      "src": "assets/work-07.jpg",
+      "source": "https://cdn.discordapp.com/attachments/1550066826971713557/1555233876912373831/Screenshot_2026-09-09-17-57-27-975_git.artdeell.mojo.jpg?backend=b2&ex=6abfc7eb&is=6abe766b&hm=385c2153518660b9ffbcf71fc702ec9cac3e1c3147a546592b4f9bd8f01c46a9&",
+      "alt": "Work 07 — supplied Minecraft server screenshot"
+    },
+    {
+      "title": "Work 08",
+      "src": "assets/work-08.jpg",
+      "source": "https://cdn.discordapp.com/attachments/1550066826971713557/1555233879064060024/Screenshot_2026-09-09-12-04-56-477_git.artdeell.mojo.jpg?backend=b2&ex=6abfc7eb&is=6abe766b&hm=347be92f27f4dca722e9c3d8bdae219f95ef34c9ba6ff95af11dd209dc446c6e&",
+      "alt": "Work 08 — supplied Minecraft server screenshot"
+    },
+    {
+      "title": "Work 09",
+      "src": "assets/work-09.jpg",
+      "source": "https://cdn.discordapp.com/attachments/1550066826971713557/1555233880431141034/Screenshot_2026-09-08-18-15-21-071_git.artdeell.mojo.jpg?backend=b2&ex=6abfc7eb&is=6abe766b&hm=3a6dd35da94247ec00cb953392058da54ead2a8fb1ff5b400e8ae5fdde84fe5e&",
+      "alt": "Work 09 — supplied Minecraft server screenshot"
+    },
+    {
+      "title": "Work 10",
+      "src": "assets/work-10.jpg",
+      "source": "https://cdn.discordapp.com/attachments/1550066826971713557/1555233882188685392/Screenshot_2026-09-06-13-46-18-402_git.artdeell.mojo.jpg?backend=b2&ex=6abfc7eb&is=6abe766c&hm=ee5d78ba8b76ca3657fbfe33de75cce4d1c0e7793fb2c0d142d83e055ff43670&",
+      "alt": "Work 10 — supplied Minecraft server screenshot"
+    },
+    {
+      "title": "Work 11",
+      "src": "assets/work-11.jpg",
+      "source": "https://cdn.discordapp.com/attachments/1550066826971713557/1555234363728330843/Screenshot_2026-08-26-11-28-32-808_git.artdeell.mojo.jpg?backend=b2&ex=6abfc85f&is=6abe76df&hm=5731be7bf5d29ac053d449c441d98902e54b97c9553f7dacfb3418ac1da39558&",
+      "alt": "Work 11 — supplied Minecraft server screenshot"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "structure": "seven independent HTML documents",
+  "default_page": "index.html (Home)",
+  "build": "passed",
+  "internal_page_links_and_fragments": "passed",
+  "server_responses": "passed",
+  "local_file_script_compatibility": "classic deferred script; no module imports or fetch required",
+  "source_and_output_folders": "none",
+  "missing_work_screenshots": 11,
+  "browser_visual_and_interaction_qa": "unavailable"
+}

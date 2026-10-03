@@ -1,0 +1,15 @@
+{
+  "name": "devsolentz-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "DevSolentz multi-page Minecraft developer portfolio",
+  "engines": {"node": ">=20"},
+  "scripts": {
+    "dev": "node tools/serve.mjs",
+    "preview": "node tools/serve.mjs",
+    "build": "node tools/prepare.mjs && node tools/check.mjs",
+    "test": "node tools/check.mjs",
+    "test:complete": "node tools/check.mjs --require-screenshots"
+  }
+}
